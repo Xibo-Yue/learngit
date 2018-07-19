@@ -13,3 +13,4 @@ git diff HEAD -- 	README.TXT
 创建了一个分支
 
 在主分支中修改
+在DEV分支中进行了修改
