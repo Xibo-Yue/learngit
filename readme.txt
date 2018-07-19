@@ -8,7 +8,7 @@ add dis
 
 git test
 
-
+git diff HEAD -- 	README.TXT
 
 
 
