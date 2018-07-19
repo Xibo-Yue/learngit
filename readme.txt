@@ -20,3 +20,4 @@ git diff HEAD -- 	README.TXT
 第二次在主分支中进行修改
 第二次在dev分支中进行修改
 
+在DEV分支上面正在改bug
