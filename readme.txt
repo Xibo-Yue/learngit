@@ -6,6 +6,8 @@ append GPL
 
 add dis
 
+git test
+
 
 
 
