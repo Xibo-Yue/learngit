@@ -14,3 +14,6 @@ git diff HEAD -- 	README.TXT
 
 在主分支中修改
 在DEV分支中进行了修改
+
+
+第二次在主分支中进行修改
