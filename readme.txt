@@ -23,4 +23,8 @@ git diff HEAD -- 	README.TXT
 
 在DEV分支上面正在改bug
 
+
 多人协作开发
+
+
+dev分支中修改
